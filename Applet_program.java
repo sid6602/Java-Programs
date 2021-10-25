@@ -1,3 +1,5 @@
+// needs appletviewer to execute the program
+
 import java.awt.Graphics;
 import java.applet.Applet;
 // <applet code="Applet_program.class" width="400" height="400"></applet>
